@@ -1,0 +1,13 @@
+
+body {
+  background-color: lightsteelblue;
+}
+
+aside {
+  width: 30%;
+  float: right;
+  border-style: dashed;
+  border-color: black;
+  border-width: 5pt;
+  border-radius: 30%;
+}
